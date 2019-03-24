@@ -1,3 +1,3 @@
 $(function () {
-    $("#includedContent").load("navbar.html");
+    $("#barranavegacao").load("navbar.html");
 });
