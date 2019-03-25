@@ -2,6 +2,10 @@
    color: #2F4F4F;
 }
 
+.video {
+   margin: -550px 100px 100px 650px;
+}
+
 .font-family-bestial {
    font-family: 'Bree Serif',
       serif;
@@ -10,6 +14,28 @@
 .title_navbar {
    margin-right: 7px;
    margin-top: -2px;
+}
+
+.ft {
+   margin-top: 20px;
+   margin-left: -170px;
+}
+
+.h1 {
+   color: #CEC45D;
+}
+
+.h4 {
+   color: #CEC45D;
+   margin: 0px 0px 0px 40px;
+}
+
+.no {
+   margin: 0px 0px 0px 24px;
+}
+
+.ni {
+   margin: 40px;
 }
 
 .img-carousel {
@@ -40,4 +66,9 @@
 
 .txt {
    font-size: large;
+}
+
+.txt1 {
+   font-size: 23px;
+   color: dimgray;
 }
